@@ -2,7 +2,7 @@
 # nightparty
 A content delivery network for a Replit instance.
 
-##Credits:
+## Credits:
 "Business Friendly" assets and videomaker theme by GoAnimate, Inc.
 "GoAnimate" and "Vyond" by GoAnimate, Inc.
 "Small Web Format" and "Adobe Flash Player" by Adobe, Inc.
